@@ -9,6 +9,9 @@ body {
     a {
     text-decoration: none;
     }
+    img {
+        display: block;
+    }
     /*header*/
     .header {
         border-bottom: 1px solid #e7e9fc;
